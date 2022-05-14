@@ -14,15 +14,11 @@
    <a href="https://awesome-design.netlify.app">
     <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://awesome-design.netlify.app">
-    <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+
 </p>
 <p align='center'>
-  
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
      &nbsp;&nbsp;
- 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />        
      &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />        
@@ -31,7 +27,7 @@
      &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />        
      &nbsp;&nbsp;
-     <img srchttps://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />        
+     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />        
      &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />        
      &nbsp;&nbsp;
