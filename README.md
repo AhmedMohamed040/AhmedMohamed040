@@ -4,4 +4,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedMohamed040&show_icons=true&theme=light) 
 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=red})
+https://github-readme-streak-stats.herokuapp.com/?user={AhmedMohamed040}
