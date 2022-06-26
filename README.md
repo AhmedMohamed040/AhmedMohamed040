@@ -32,5 +32,7 @@
      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />        
      &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />        
-     &nbsp;&nbsp;                                                                                                  
+     &nbsp;&nbsp;
+     <img src="  https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />        
+     &nbsp;&nbsp;
 </p>
