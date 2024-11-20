@@ -8,13 +8,13 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-a0b63922b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/AhmedAboAlhamad/">
+<!--   <a href="https://www.facebook.com/AhmedAboAlhamad/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
    <a href="https://awesome-design.netlify.app">
     <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
+ -->
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
